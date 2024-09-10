@@ -1,0 +1,6 @@
+Flask==2.3.3
+numpy==1.25.0
+pandas==2.0.2
+scikit-learn==1.3.0
+pickle5==0.0.12  # For compatibility with `pickle` module if needed
+gunicorn==20.2.0
